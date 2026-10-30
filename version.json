@@ -1,0 +1,12 @@
+{
+  "vcode": 61,
+  "version": "3.40",
+  "version_actual": "3.39",
+  "tamano": "650 KB",
+  "fecha": "30/10/2026",
+  "apk_url": "https://github.com/TU_USUARIO/nova-tv/releases/latest/download/NOVA_TV.apk",
+  "novedades": [
+    "Aviso automatico de actualizacion al abrir la app",
+    "Mejoras de estabilidad"
+  ]
+}
