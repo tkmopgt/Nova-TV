@@ -1,9 +1,8 @@
-
 {
-  "vcode": 64,
-  "version": "3.43",
+  "vcode": 65,
+  "version": "3.44",
   "tamano": "0.6 MB",
-  "fecha": "2026-10-31",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.43.apk",
-  "novedades": "Se quitó el enlace del canal (la dirección) que aparecía debajo del video. Ahora el reproductor se ve más limpio."
+  "fecha": "2026-11-01",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.44.apk",
+  "novedades": "Se arregló el video en horizontal: antes se cortaba la parte de arriba. Ahora el video se ve completo en pantalla."
 }
