@@ -1,11 +1,9 @@
+
 {
-  "vcode": 63,
-  "version": "3.42",
-  "tamano": "650 KB",
-  "fecha": "01/11/2026",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.42.apk",
-  "novedades": [
-    "Aviso automatico de actualizacion al abrir la app",
-    "Mejoras de estabilidad y correcciones"
-  ]
+  "vcode": 64,
+  "version": "3.43",
+  "tamano": "0.6 MB",
+  "fecha": "2026-10-31",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.43.apk",
+  "novedades": "Se quitó el enlace del canal (la dirección) que aparecía debajo del video. Ahora el reproductor se ve más limpio."
 }
