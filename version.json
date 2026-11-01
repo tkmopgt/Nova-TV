@@ -1,8 +1,12 @@
 {
-  "vcode": 67,
-  "version": "3.46",
+  "vcode": 68,
+  "version": "3.47",
+  "version_actual": "3.46",
   "tamano": "0.6 MB",
   "fecha": "2026-11-01",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.46.apk",
-  "novedades": "Se quitaron 30 canales de Bolivia que no se reproducían. Quedaron solo los que funcionan."
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.47.apk",
+  "novedades": [
+    "Se arregló el aviso de actualización: ahora las novedades se leen bien y no salen letra por letra.",
+    "Se corrigió el número de versión que aparece en el aviso."
+  ]
 }
