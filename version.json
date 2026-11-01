@@ -1,8 +1,8 @@
 {
-  "vcode": 65,
-  "version": "3.44",
+  "vcode": 67,
+  "version": "3.46",
   "tamano": "0.6 MB",
   "fecha": "2026-11-01",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.44.apk",
-  "novedades": "Se arregló el video en horizontal: antes se cortaba la parte de arriba. Ahora el video se ve completo en pantalla."
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.46.apk",
+  "novedades": "Se quitaron 30 canales de Bolivia que no se reproducían. Quedaron solo los que funcionan."
 }
