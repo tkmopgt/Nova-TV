@@ -1,13 +1,15 @@
 {
-  "vcode": 74,
-  "version": "3.53",
-  "version_actual": "3.52",
+  "vcode": 80,
+  "version": "3.59",
+  "version_actual": "3.58",
   "tamano": "0.7 MB",
-  "fecha": "2026-11-01",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.53.apk",
+  "fecha": "2026-11-12",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.59.apk",
   "novedades": [
-    "El logo NOVA TV se queda más tiempo en pantalla después de la explosión.",
-    "Todo lo demás igual: logo grande y mensaje Disfruta sin límites ordenado abajo."
+    "Arriba estan Inicio, Buscar, Favoritos y Ajustes.",
+    "Se quito Mi lista de la barra de arriba.",
+    "Vuelve la pestana Cultura con NASA TV, Pluto TV Naturaleza y Pluto TV Animales."
   ]
 }
+
 
