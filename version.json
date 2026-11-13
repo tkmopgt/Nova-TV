@@ -1,10 +1,11 @@
 {
-  "vcode": 89,
-  "version": "3.68",
-  "version_actual": "3.67",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.68.apk",
-  "novedades": "- Se corrigio el boton Actualizar: ahora la app descarga e instala sola la nueva version (antes salia 'Ninguna aplicacion puede procesar esta accion')\n- Si aparece la pantalla 'Instalar apps desconocidas', activala y toca Actualizar otra vez\n- Lista de 243 canales probados y funcionando\n- Arranque mas estable"
+  "vcode": 91,
+  "version": "3.70",
+  "version_actual": "3.69",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.70.apk",
+  "novedades": "- Arreglado en Android TV: ya no sale 'Ninguna aplicacion puede procesar esta accion'\n- La TV descarga la actualizacion y abre sola la pantalla de INSTALAR\n- Boton ACTUALIZAR AHORA en la pantalla de inicio, para instalar a mano si hace falta\n- 243 canales probados"
 }
+
 
 
 
