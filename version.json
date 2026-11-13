@@ -1,14 +1,15 @@
 {
-  "vcode": 85,
-  "version": "3.64",
-  "version_actual": "3.63",
+  "vcode": 86,
+  "version": "3.65",
+  "version_actual": "3.64",
   "tamano": "0.7 MB",
   "fecha": "2026-11-13",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.64.apk",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.65.apk",
   "novedades": [
-    "Arreglado: los canales nuevos ahora SI aparecen al actualizar la app.",
-    "Ya no se queda con la lista vieja guardada en el telefono."
+    "Arreglado de raiz: ahora si cargan los canales nuevos en todas las secciones.",
+    "Deportes, Noticias, Peliculas y Series ya muestran sus canales."
   ]
 }
+
 
 
