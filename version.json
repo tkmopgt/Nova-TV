@@ -1,15 +1,16 @@
 {
-  "vcode": 82,
-  "version": "3.61",
-  "version_actual": "3.60",
+  "vcode": 83,
+  "version": "3.62",
+  "version_actual": "3.61",
   "tamano": "0.7 MB",
   "fecha": "2026-11-13",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.61.apk",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.62.apk",
   "novedades": [
-    "Ajustes: ahora con el control puedes bajar hasta el final y ver el creador y la version.",
-    "Botón ACTUALIZAR AHORA arreglado: la app descarga e instala sola."
+    "Quitada la fila de botones repetidos (Todos / Deportes / Noticias / Cultura) que salía debajo de las pestañas.",
+    "Ahora cada pestaña muestra directo sus canales, sin botones de más."
   ]
 }
+
 
 
 
