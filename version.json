@@ -1,15 +1,11 @@
 {
-  "vcode": 88,
-  "version": "3.67",
-  "version_actual": "3.66",
-  "tamano": "0.7 MB",
-  "fecha": "2026-11-13",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.67.apk",
-  "novedades": [
-    "Arreglo total: la app volvia a arrancar mal y no cargaba ninguna lista de canales.",
-    "Ya cargan los 243 canales nuevos en En Vivo, Deportes, Noticias, Peliculas y Series."
-  ]
+  "vcode": 89,
+  "version": "3.68",
+  "version_actual": "3.67",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.68.apk",
+  "novedades": "- Se corrigio el boton Actualizar: ahora la app descarga e instala sola la nueva version (antes salia 'Ninguna aplicacion puede procesar esta accion')\n- Si aparece la pantalla 'Instalar apps desconocidas', activala y toca Actualizar otra vez\n- Lista de 243 canales probados y funcionando\n- Arranque mas estable"
 }
+
 
 
 
