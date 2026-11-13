@@ -1,0 +1,13 @@
+{
+  "vcode": 84,
+  "version": "3.63",
+  "version_actual": "3.62",
+  "tamano": "0.7 MB",
+  "fecha": "2026-11-13",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.63.apk",
+  "novedades": [
+    "Lista de canales limpia: se sacaron mas de 1400 canales que ya no funcionaban.",
+    "Quedan 243 canales, todos probados uno por uno y funcionando.",
+    "Se corrigieron nombres de canales que salian cortados o con texto raro."
+  ]
+}
