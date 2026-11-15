@@ -1,10 +1,11 @@
 {
-  "vcode": 91,
-  "version": "3.70",
-  "version_actual": "3.69",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.70.apk",
-  "novedades": "- Arreglado en Android TV: ya no sale 'Ninguna aplicacion puede procesar esta accion'\n- La TV descarga la actualizacion y abre sola la pantalla de INSTALAR\n- Boton ACTUALIZAR AHORA en la pantalla de inicio, para instalar a mano si hace falta\n- 243 canales probados"
+  "vcode": 92,
+  "version": "3.71",
+  "version_actual": "3.70",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.71.apk",
+  "novedades": "- Nuevo logo animado de arranque que se adapta a TODA la pantalla de tu TV (se ve grande en 16:9, 4:3 y en TV de cualquier tamaño)\n- Animacion nueva: estrella, explosion de luz, el logo aparece con brillo y el eslogan 'Disfruta sin limites'\n- Barra de progreso abajo durante el intro\n- Se arreglo el boton Actualizar en Android TV\n- 243 canales probados"
 }
+
 
 
 
