@@ -1,9 +1,9 @@
 {
-  "vcode": 95,
-  "version": "3.74",
-  "version_actual": "3.73",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.74.apk",
-  "novedades": "- NUEVA PANTALLA DE INICIO arreglada: ahora podes BAJAR la lista de canales con la flecha abajo, canal por canal, y se va desplazando sola hasta el ultimo\n- Diseno tipo guia de TV: categorias a la izquierda, lista de canales al centro y el reproductor con la vista previa a la derecha\n- Flecha arriba sube canal por canal y al llegar arriba pasa a las categorias; con Enter cambias de categoria\n- Flecha derecha te lleva al reproductor, con los botones Favorito y Ver ahora abajo\n- Arreglado el cursor que se perdia al cambiar de categoria\n- Se ve bien en TV 16:9, en 4:3 y en pantallas grandes y chicas\n- Todo lo demas sigue igual: pestañas, buscador, favoritos, ajustes y el sonido de la explosion"
+  "vcode": 96,
+  "version": "3.75",
+  "version_actual": "3.74",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.75.apk",
+  "novedades": "- ARREGLADO EL CONTROL REMOTO: ahora las flechas andan en TODAS las pantallas (Series, Deportes, En Vivo, Noticias, Ajustes y Mi lista), no solo en el inicio\n- En Series, Deportes y las demas pestanas ya podes BAJAR y desplazarte por la lista con el control\n- Boton ATRAS: desde cualquier pantalla volves al inicio; desde el inicio te pregunta si queres salir\n- Al elegir una pestana de arriba (Series, Deportes, Noticias...) la lista cambia a esa categoria y ademas se marca a la izquierda\n- Arreglado el texto de los canales que aparecia pegado (nombre y descripcion ahora en dos lineas)\n- Todo lo demas sigue igual: buscador, favoritos, reproductor y el sonido de la explosion"
 }
 
 
