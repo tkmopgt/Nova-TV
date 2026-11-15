@@ -1,10 +1,9 @@
-
 {
-  "vcode": 99,
-  "version": "3.78",
-  "version_actual": "3.78",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.78.apk",
-  "novedades": "Versión 3.78: arreglé del todo la navegación con el control. En Inicio ya podés bajar por la lista de canales y volver a subir hasta las pestañas de arriba (En Vivo, Deportes, Noticias...) y de ahí entrar a Favoritos. Las pestañas responden siempre con las flechas y no se queda trabado el botón marcado. Favoritos, Series y Ajustes se mueven bien para los cuatro lados. En Buscar las letras ya no se quedan pegadas: bajás del teclado a los resultados y subís de vuelta. Arreglado el número de versión del logo."
+  "vcode": 101,
+  "version": "3.80",
+  "version_actual": "3.80",
+  "apk_url": "https://github.com/tkmopgt/Nova-TV/raw/main/NOVA_TV_v3.80.apk",
+  "novedades": "Versión 3.80: la app abre más liviana. La lista de canales y las tarjetas se dibujan por partes, así no se traba en las TV más lentas. Logos y pantalla de inicio más livianos, y el recuadro del control ya no genera sombras pesadas."
 }
 
 
