@@ -1,10 +1,11 @@
 {
-  "vcode": 92,
-  "version": "3.71",
-  "version_actual": "3.70",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.71.apk",
-  "novedades": "- Nuevo logo animado de arranque que se adapta a TODA la pantalla de tu TV (se ve grande en 16:9, 4:3 y en TV de cualquier tamaño)\n- Animacion nueva: estrella, explosion de luz, el logo aparece con brillo y el eslogan 'Disfruta sin limites'\n- Barra de progreso abajo durante el intro\n- Se arreglo el boton Actualizar en Android TV\n- 243 canales probados"
+  "vcode": 93,
+  "version": "3.72",
+  "version_actual": "3.71",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.72.apk",
+  "novedades": "- SONIDO NUEVO: la explosion del intro ahora suena FUERTE, grave y con estruendo tipo cine (golpe de subgraves, vidrio y chispas, eco largo)\n- Se siente el golpe en el pecho, como en una pelicula, en cualquier TV o parlante\n- Todo lo demas queda igual: logo animado adaptativo, eslogan 'Disfruta sin limites' y 243 canales"
 }
+
 
 
 
