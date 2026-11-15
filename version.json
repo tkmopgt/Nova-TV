@@ -1,9 +1,9 @@
 {
-  "vcode": 94,
-  "version": "3.73",
-  "version_actual": "3.72",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.73.apk",
-  "novedades": "- NUEVA PANTALLA DE INICIO tipo Netflix: portada grande con el canal destacado, su nombre en grande, etiqueta EN VIVO, descripcion y poster al costado\n- Botones de 'Ver ahora' y 'Mas informacion' como en las apps de peliculas\n- Filas que se deslizan de lado a lado: Sigue viendo y Lo mas visto hoy (con los numeros 1, 2, 3...)\n- Se ve grande y bien en TV 16:9 y en 4:3\n- Todo lo demas sigue igual: pestañas, buscador, favoritos, ajustes y el sonido de la explosion"
+  "vcode": 95,
+  "version": "3.74",
+  "version_actual": "3.73",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.74.apk",
+  "novedades": "- NUEVA PANTALLA DE INICIO arreglada: ahora podes BAJAR la lista de canales con la flecha abajo, canal por canal, y se va desplazando sola hasta el ultimo\n- Diseno tipo guia de TV: categorias a la izquierda, lista de canales al centro y el reproductor con la vista previa a la derecha\n- Flecha arriba sube canal por canal y al llegar arriba pasa a las categorias; con Enter cambias de categoria\n- Flecha derecha te lleva al reproductor, con los botones Favorito y Ver ahora abajo\n- Arreglado el cursor que se perdia al cambiar de categoria\n- Se ve bien en TV 16:9, en 4:3 y en pantallas grandes y chicas\n- Todo lo demas sigue igual: pestañas, buscador, favoritos, ajustes y el sonido de la explosion"
 }
 
 
