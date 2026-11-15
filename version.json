@@ -1,9 +1,17 @@
 {
-  "vcode": 101,
-  "version": "3.80",
+  "vcode": 103,
+  "version": "3.82",
   "version_actual": "3.80",
-  "apk_url": "https://github.com/tkmopgt/Nova-TV/raw/main/NOVA_TV_v3.80.apk",
-  "novedades": "Versión 3.80: la app abre más liviana. La lista de canales y las tarjetas se dibujan por partes, así no se traba en las TV más lentas. Logos y pantalla de inicio más livianos, y el recuadro del control ya no genera sombras pesadas."
+  "tamano": "0.6 MB",
+  "fecha": "2026-11-16",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.82.apk",
+  "novedades": [
+    "Pestanas de arriba arregladas: Deportes, Peliculas y Series ya no salen vacias, muestran todos los canales.",
+    "Entran todos los canales de la lista (243): Cine 41, Series 55, Deportes 31, Kids 34, Noticias 19, Cultura 12, Entretenimiento 46.",
+    "Nuevas categorias a la izquierda: Deportes, Noticias, Cine y Peliculas, Series y Novelas, Kids, Musica y General.",
+    "Barra de abajo (Inicio, Buscar, Favoritos, Ajustes) arreglada para el control remoto.",
+    "Buscador arreglado: con Subir desde el teclado vuelves al campo de texto."
+  ]
 }
 
 
