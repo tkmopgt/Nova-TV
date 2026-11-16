@@ -1,10 +1,11 @@
 {
-  "vcode": 105,
-  "version": "3.84",
-  "version_actual": "3.84",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.84.apk",
-  "novedades": "3.84: las pestañas de arriba ahora cambian los canales de abajo. Buscador arreglado: escribe con el teclado en pantalla y navega con el control. Inicio y Ajustes ordenados en el control remoto. Grilla más grande en TV (6 columnas)."
+  "vcode": 106,
+  "version": "3.85",
+  "version_actual": "3.85",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.85.apk",
+  "novedades": "3.85: arreglado el instalador en celulares Android. Antes, al bajar la actualizacion en el celular, salia 'Abrir con' y no se podia instalar. Ahora baja y aparece directo el instalador de Android. En la TV sigue andando igual que antes."
 }
+
 
 
 
