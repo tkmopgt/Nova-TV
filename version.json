@@ -1,9 +1,9 @@
 {
-  "vcode": 108,
-  "version": "3.87",
-  "version_actual": "3.87",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.87.apk",
-  "novedades": "3.87: instalador corregido. La 3.86 daba error 'paquete no valido' en la TV y en el celular. Ahora el archivo se arma limpio y se firma con una clave fija y guardada, asi no se rompe mas. Ademas trae el logo con la version y el corazon para favoritos en la TV."
+  "vcode": 109,
+  "version": "3.88",
+  "version_actual": "3.88",
+  "apk_url": "https://github.com/tkmopgt/Nova-TV/releases/download/apk/NOVA_TV_v3.88.apk",
+  "novedades": "3.88 - Arreglo de instalacion: el instalador ahora si se instala en el celular y en la TV (antes decia que el paquete no era valido). El logo de arriba muestra la version real y se actualiza solo. En la TV ya se puede marcar el corazon de favoritos con el control remoto."
 }
 
 
