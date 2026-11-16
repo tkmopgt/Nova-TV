@@ -3,7 +3,7 @@
   "version": "3.88",
   "version_actual": "3.88",
   "apk_url": "https://github.com/tkmopgt/Nova-TV/releases/download/apk/NOVA_TV_v3.88.apk",
-  "novedades": "3.88 - Arreglo de instalacion: el instalador ahora si se instala en el celular y en la TV (antes decia que el paquete no era valido). El logo de arriba muestra la version real y se actualiza solo. En la TV ya se puede marcar el corazon de favoritos con el control remoto."
+  "novedades": "3.88 - Vuelve el logo animado de NOVA TV al abrir. Ya no aparece la pantalla de login sola al entrar (se abre al tocar Entrar o el corazon). El logo de arriba muestra la version real y los enlaces externos ya no se abren dentro de la app."
 }
 
 
