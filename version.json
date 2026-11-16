@@ -1,10 +1,11 @@
 {
-  "vcode": 106,
-  "version": "3.85",
-  "version_actual": "3.85",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.85.apk",
-  "novedades": "3.85: arreglado el instalador en celulares Android. Antes, al bajar la actualizacion en el celular, salia 'Abrir con' y no se podia instalar. Ahora baja y aparece directo el instalador de Android. En la TV sigue andando igual que antes."
+  "vcode": 107,
+  "version": "3.86",
+  "version_actual": "3.86",
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.86.apk",
+  "novedades": "3.86: el logo de arriba ahora muestra la version (v3.86) y cambia solo en cada actualizacion. En la TV ya se puede agregar a favoritos desde el reproductor: arriba a la izquierda aparece el corazon, se llega con las flechas del control y se marca con OK."
 }
+
 
 
 
