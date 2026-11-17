@@ -1,9 +1,10 @@
 {
-  "version": "3.89",
-  "vcode": 110,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.89.apk",
-  "novedades": "El texto \"Bienvenido a NOVA TV / Crea tu cuenta gratis\" ya no esta pegado al logo: ahora tiene aire y se lee mejor en la TV. Todo lo demas igual que la 3.88 (login a pantalla completa, flechas del control y canales nuevos)."
+  "version": "3.90",
+  "vcode": 111,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.90.apk",
+  "novedades": "Arreglado el teclado dentro del login y del registro. Con las flechas del control el recuadro se mueve de casilla en casilla sin abrir el teclado, y al apretar OK el teclado aparece en la misma casilla que esta resaltada (antes se abria en otra). Todo lo demas igual: login a pantalla completa, texto separado del logo, flechas del control y canales nuevos."
 }
+
 
 
 
