@@ -1,8 +1,9 @@
 {
-  "version": "3.88",
-  "vcode": 109,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.88.apk",
-  "novedades": "Arreglado el error al instalar el paquete. Se mantiene igual el diseño de la 3.85. Ahora el login se ve a pantalla completa y con el control remoto podes moverte con las flechas entre Usuario, Contraseña, el botón y Registrate. Además quedan sumados los canales nuevos. IMPORTANTE: si tenes una version anterior instalada, desinstalala antes de instalar esta."
+  "version": "3.89",
+  "vcode": 110,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.89.apk",
+  "novedades": "El texto \"Bienvenido a NOVA TV / Crea tu cuenta gratis\" ya no esta pegado al logo: ahora tiene aire y se lee mejor en la TV. Todo lo demas igual que la 3.88 (login a pantalla completa, flechas del control y canales nuevos)."
 }
+
 
 
