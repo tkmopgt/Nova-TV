@@ -1,9 +1,10 @@
 {
-  "version": "3.90",
-  "vcode": 111,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.90.apk",
-  "novedades": "Arreglado el teclado dentro del login y del registro. Con las flechas del control el recuadro se mueve de casilla en casilla sin abrir el teclado, y al apretar OK el teclado aparece en la misma casilla que esta resaltada (antes se abria en otra). Todo lo demas igual: login a pantalla completa, texto separado del logo, flechas del control y canales nuevos."
+  "version": "3.91",
+  "vcode": 112,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.91.apk",
+  "novedades": "Arreglado el registro: antes, al llenar usuario, contrasena y clave, el cuadro de la clave se salia de la pantalla y tapaba el boton Registrarme, asi que el control no podia llegar a el. Ahora el registro entra completo en la TV, el recuadro baja hasta Registrarme y al apretar OK crea la cuenta. El login sigue igual: flechas mueven el recuadro sin abrir teclado y OK abre el teclado en la casilla resaltada."
 }
+
 
 
 
