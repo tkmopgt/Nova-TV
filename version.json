@@ -1,7 +1,7 @@
 {
-  "vcode": 106,
-  "version": "3.85",
-  "version_actual": "3.85",
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.85.apk",
-  "novedades": "3.85: arreglado el instalador en celulares Android. Antes, al bajar la actualizacion en el celular, salia 'Abrir con' y no se podia instalar. Ahora baja y aparece directo el instalador de Android. En la TV sigue andando igual que antes."
+  "version": "3.86",
+  "vcode": 107,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.86.apk",
+  "novedades": "Se agregaron 57 canales nuevos (deportes, noticias, películas, series y kids) que ya vienen probados y andando. Mismo diseño de siempre."
 }
+
