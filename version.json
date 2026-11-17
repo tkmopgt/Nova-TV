@@ -1,7 +1,7 @@
 {
-  "version": "3.87",
-  "vcode": 108,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.87.apk",
-  "novedades": "La pantalla de ingreso (usuario y contraseña) ahora se ve grande y completa en toda la TV. Se mantienen los 57 canales nuevos de la 3.86."
+  "version": "3.88",
+  "vcode": 109,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.88.apk",
+  "novedades": "Arreglado el control remoto en la pantalla de acceso: con las flechas arriba/abajo ya pasas de Usuario a Contraseña, al boton y a Registrate, y con OK escribes dentro del campo. Tambien se ve todo el login a pantalla completa."
 }
 
