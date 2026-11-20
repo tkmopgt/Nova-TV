@@ -1,9 +1,10 @@
 {
-  "version": "3.97",
-  "vcode": 118,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.97.apk",
-  "novedades": "Ahora en la TV aparece un teclado en la pantalla para escribir. En Usuario o Contrasena apretas OK con el control y se abre el teclado de la app: te moves con las flechas y apretas OK en cada letra, y con LISTO volves al boton. Tambien funciona en la casilla de la clave de activacion. En el celular sigue saliendo el teclado del telefono. Si al instalar sale 'no se pudo analizar el paquete', borra las descargas viejas de NOVA TV y descarga de nuevo."
+  "version": "3.98",
+  "vcode": 119,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.98.apk",
+  "novedades": "Arreglamos la lupa de Buscar en la TV: antes la app creia que la TV era un celular y escondia el teclado, por eso no dejaba escribir. Ahora en la TV siempre aparece el teclado de la app (se maneja con las flechas y OK, como en el login), y en el celular sigue saliendo el teclado del telefono. Tambien sigue el teclado nuevo para escribir usuario y contrasena. Si al instalar sale 'no se pudo analizar el paquete', borra las descargas viejas de NOVA TV y descarga de nuevo."
 }
+
 
 
 
