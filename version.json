@@ -1,9 +1,10 @@
 {
-  "version": "3.96",
-  "vcode": 117,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.96.apk",
-  "novedades": "Arreglamos la pantalla de usuario y contrasena: ahora si se puede bajar y subir entre Usuario, Contrasena e Iniciar sesion, y si se puede escribir. Antes, cuando la app arrancaba sin cuenta (por ejemplo despues de desinstalar y volver a instalar), el control no se metia en el formulario y parecia trabado. Tambien sigue el arreglo de la lista en el celular. Si al instalar sale 'no se pudo analizar el paquete', borra las descargas viejas de NOVA TV y descarga de nuevo."
+  "version": "3.97",
+  "vcode": 118,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.97.apk",
+  "novedades": "Ahora en la TV aparece un teclado en la pantalla para escribir. En Usuario o Contrasena apretas OK con el control y se abre el teclado de la app: te moves con las flechas y apretas OK en cada letra, y con LISTO volves al boton. Tambien funciona en la casilla de la clave de activacion. En el celular sigue saliendo el teclado del telefono. Si al instalar sale 'no se pudo analizar el paquete', borra las descargas viejas de NOVA TV y descarga de nuevo."
 }
+
 
 
 
