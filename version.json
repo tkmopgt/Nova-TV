@@ -1,8 +1,8 @@
 {
-  "version": "3.92",
-  "vcode": 113,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.92.apk",
-  "novedades": "Arreglos de esta version: 1) El cartel de actualizar ya no muestra un cuadro blanco: ahora tiene un icono dibujado y entra completo en la pantalla, con el texto de novedades sin cortarse. 2) El logo del login vuelve a quedar grande como estaba, igual en el login y en el registro (no se achica mas). 3) El registro entra completo y el recuadro del control llega hasta Registrarme. 4) Si le das a Mas tarde, el cartel no vuelve a salir por esa misma version. 5) Abajo en el login se ve chiquito NOVA TV v3.92 para saber que version quedo instalada."
+  "version": "3.94",
+  "vcode": 115,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.94.apk",
+  "novedades": "Arreglamos la pantalla Buscar. En el celular ya no salen dos teclados: tocas la casilla y escribes con el teclado del telefono, y los canales aparecen abajo para tocarlos. En la TV el teclado quedo a la izquierda y los resultados a la derecha, asi se ven todos los canales encontrados: escribes con OK, bajas con la flecha y abres el canal con OK."
 }
 
 
