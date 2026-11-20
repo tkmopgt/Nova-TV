@@ -1,9 +1,10 @@
 {
-  "version": "3.91",
-  "vcode": 112,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.91.apk",
-  "novedades": "Arreglado el registro: antes, al llenar usuario, contrasena y clave, el cuadro de la clave se salia de la pantalla y tapaba el boton Registrarme, asi que el control no podia llegar a el. Ahora el registro entra completo en la TV, el recuadro baja hasta Registrarme y al apretar OK crea la cuenta. El login sigue igual: flechas mueven el recuadro sin abrir teclado y OK abre el teclado en la casilla resaltada."
+  "version": "3.92",
+  "vcode": 113,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.92.apk",
+  "novedades": "Arreglos de esta version: 1) El cartel de actualizar ya no muestra un cuadro blanco: ahora tiene un icono dibujado y entra completo en la pantalla, con el texto de novedades sin cortarse. 2) El logo del login vuelve a quedar grande como estaba, igual en el login y en el registro (no se achica mas). 3) El registro entra completo y el recuadro del control llega hasta Registrarme. 4) Si le das a Mas tarde, el cartel no vuelve a salir por esa misma version. 5) Abajo en el login se ve chiquito NOVA TV v3.92 para saber que version quedo instalada."
 }
+
 
 
 
