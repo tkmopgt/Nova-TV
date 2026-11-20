@@ -1,9 +1,10 @@
 {
-  "version": "3.94",
-  "vcode": 115,
-  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.94.apk",
-  "novedades": "Arreglamos la pantalla Buscar. En el celular ya no salen dos teclados: tocas la casilla y escribes con el teclado del telefono, y los canales aparecen abajo para tocarlos. En la TV el teclado quedo a la izquierda y los resultados a la derecha, asi se ven todos los canales encontrados: escribes con OK, bajas con la flecha y abres el canal con OK."
+  "version": "3.96",
+  "vcode": 117,
+  "apk_url": "https://raw.githubusercontent.com/tkmopgt/Nova-TV/main/NOVA_TV_v3.96.apk",
+  "novedades": "Arreglamos la pantalla de usuario y contrasena: ahora si se puede bajar y subir entre Usuario, Contrasena e Iniciar sesion, y si se puede escribir. Antes, cuando la app arrancaba sin cuenta (por ejemplo despues de desinstalar y volver a instalar), el control no se metia en el formulario y parecia trabado. Tambien sigue el arreglo de la lista en el celular. Si al instalar sale 'no se pudo analizar el paquete', borra las descargas viejas de NOVA TV y descarga de nuevo."
 }
+
 
 
 
